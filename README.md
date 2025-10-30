@@ -26,6 +26,8 @@ The goal of this project is to demonstrate:
 - Real-time data handling in JavaScript
 - Clean, responsive UI with HTML and CSS
 
+- 
+
 ---
 
 ## ✨ Features  
