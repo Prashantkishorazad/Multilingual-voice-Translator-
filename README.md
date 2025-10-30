@@ -26,7 +26,7 @@ The goal of this project is to demonstrate:
 - Real-time data handling in JavaScript
 - Clean, responsive UI with HTML and CSS
 
-- 
+  ![image alt ] (https://github.com/Prashantkishorazad/Multilingual-voice-Translator-/blob/main/Image.jpeg?raw=true))
 
 ---
 
